@@ -1,0 +1,3 @@
+{:require  [deep-sea-adventure.core]
+ :init-fns [deep-sea-adventure.core/init]
+ :compiler-options {:asset-path "js/app.out"}}
